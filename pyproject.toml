@@ -1,0 +1,23 @@
+[project]
+name = "video-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.15",
+    "faiss-cpu>=1.11.0",
+    "groq>=0.4.0",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "pypdf>=5.7.0",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.4",
+    "sentence-transformers>=5.0.0",
+    "streamlit>=1.46.1",
+    "youtube-transcript-api>=1.1.1",
+    "yt-dlp>=2025.6.30",
+]

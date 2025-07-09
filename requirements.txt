@@ -1,0 +1,26 @@
+# Core dependencies
+streamlit>=1.31.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Language processing
+langchain>=0.1.5
+langchain-community>=0.0.18
+
+# Vector database
+chromadb>=0.4.22
+sentence-transformers>=3.0.0
+faiss-cpu>=1.7.4
+
+# Video processing
+youtube-transcript-api>=0.6.2
+yt-dlp>=2024.1.7
+
+# Data processing
+pandas>=2.1.4
+numpy>=1.24.3
+pypdf>=4.0.1
+
+# Web support
+python-multipart>=0.0.6
